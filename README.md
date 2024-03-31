@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syed Muhammad Shayan Husssain
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syed Muhammad Shayan Hussain
 =====================================================================================================================================================
 
 Aspiring Software Engineer
 --------------------------
 
-I'm a third-year Computer Science student with a passion for problem-solving and technology. Here on GitHub, you'll find my projects that reflect my journey in the tech world. From creating an Employee Management system using C++ to developing a Social Media Application with MySQL, Express, React, and NodeJS, each repository tells a story of learning, growth, and my commitment to honing my skills. I believe in the power of code to make a difference, and I'm always ready to learn something new. Whether it's diving into a new programming language or exploring the latest libraries and frameworks, I'm all about embracing the challenges and opportunities that come with being a part of this ever-evolving field. Happy coding! 😊
+I'm a third-year(6th semester) Computer Science student with a passion for problem-solving and technology. Here on GitHub, you'll find my projects reflecting my journey in the tech world. From creating an Employee Management system using C++ to developing a Social Media Application with MySQL, Express, React, and NodeJS, each repository tells a story of learning, growth, and my commitment to honing my skills. I believe in the power of code to make a difference, and I'm always ready to learn something new; Whether it's diving into a new programming language or exploring the latest libraries and frameworks, I'm all about embracing the challenges and opportunities that come with being a part of this ever-evolving field. Happy coding! 😊
 
 *   🌍  I'm based in Karachi, Pakistan
 *   ✉️  You can contact me at [s.m.shayanhussain@gmail.com](mailto:s.m.shayanhussain@gmail.com)
